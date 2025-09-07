@@ -34,7 +34,7 @@ INSERT INTO Employees VALUES
 (8, 'David', 'Moore', 'Marketing', 85000.00, '2021-09-01', 29, 'davidm@example.com', 'UK'),
 (9, 'Elizabeth', 'Taylor', 'HR', 60000.00, '2019-05-18', 31, 'elizabetht@example.com', 'USA'),
 (10, 'William', NULL, 'IT', 64000.00, '2020-04-10', 26, NULL, 'Germany');
--- (остальные строки я урезал ради краткости, но можешь взять из исходника)
+
 
 -------------------------------------------------------
 CREATE TABLE Products (
